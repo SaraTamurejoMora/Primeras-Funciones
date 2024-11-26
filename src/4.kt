@@ -7,6 +7,7 @@ fun main() {
 
 
 }
+/*
 
 fun leerEntero(): Int {
     var lector: Scanner = Scanner(System.`in`)
@@ -18,4 +19,4 @@ fun leerEntero(): Int {
     }while()
 
 
-}
+}*/
